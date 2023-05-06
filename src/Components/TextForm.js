@@ -77,6 +77,11 @@ export default function TextForm(props) {
         <h3>Your text preview</h3>
         <p>{text.length>0?text:"Enter your text in text box above for preview"}</p> <hr></hr>
       </div>
+            <div className="container">
+        <h5>
+          This Application is created by Hassan Raza.
+        </h5>
+      </div>
     </>
   );
 }
