@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CapsWord-App/static/css/main.073c9b0a.css",
+    "main.js": "/CapsWord-App/static/js/main.27230123.js",
+    "static/js/787.7cd949fd.chunk.js": "/CapsWord-App/static/js/787.7cd949fd.chunk.js",
+    "index.html": "/CapsWord-App/index.html",
+    "main.073c9b0a.css.map": "/CapsWord-App/static/css/main.073c9b0a.css.map",
+    "main.27230123.js.map": "/CapsWord-App/static/js/main.27230123.js.map",
+    "787.7cd949fd.chunk.js.map": "/CapsWord-App/static/js/787.7cd949fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.27230123.js"
+  ]
+}
