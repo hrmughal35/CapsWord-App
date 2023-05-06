@@ -59,7 +59,7 @@ export default function TextForm(props) {
             Convert to lowercase
           </button>
           <button className="btn btn-success mx-2" onClick={handlecopyclick}>
-            Copy the tttttext
+            Copy the text
           </button>
           <button
             className="btn btn-secondary my-2"
